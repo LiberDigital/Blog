@@ -9,7 +9,7 @@ Este es mi primer artículo.
 
 bla bla bla
 
-![Una Pc]({{ site.baseurl }} /images/imagen para el blog.jpeg)
+![_config.yml]/images/imagen para el blog.jpeg)
 
 
 

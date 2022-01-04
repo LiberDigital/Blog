@@ -9,7 +9,7 @@ Este es mi primer artículo.
 
 bla bla bla
 
-https://github.com/LiberDigital/Blog/blob/master/images/imagen%20para%20el%20blog.jpeg
+![informática]({{ site.baseurl }}/images/imagen para el blog.jpeg)
 
 ### Subsección 1
 

@@ -1,5 +1,5 @@
 ---
-Diseño: post
+Diseño: Post
 Título: Primer post que hago del año 2022.
 ---
 

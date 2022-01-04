@@ -11,6 +11,8 @@ bla bla bla
 
 ![informática]({{ site.baseurl }}/images/imagen para el blog.jpeg)
 
+!({{ site.baseurl }}/images/imagen para el blog.jpeg)
+
 ### Subsección 1
 
 Mas pavadas...

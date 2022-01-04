@@ -9,7 +9,7 @@ Este es mi primer artículo.
 
 bla bla bla
 
-!/images/imagen para el blog.jpeg)
+!/images/imagen para el blog.jpg)
 
 
 

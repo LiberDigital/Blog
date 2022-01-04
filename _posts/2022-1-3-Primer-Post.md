@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Primer post que hago del año 2022.
+Diseño: post
+Título: Primer post que hago del año 2022.
 ---
 
 Este es mi primer artículo.
@@ -9,7 +9,7 @@ Este es mi primer artículo.
 
 bla bla bla
 
-(/images/imagen para el blog.jpg)
+{{(/images/imagen para el blog.jpg)}}
 
 
 

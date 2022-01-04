@@ -9,7 +9,7 @@ Este es mi primer artículo.
 
 bla bla bla
 
-![informática]{{{site.baseurl }}/images/imagen para el blog.jpeg)
+/images/imagen para el blog.jpeg)
 
 ### Subsección 1
 

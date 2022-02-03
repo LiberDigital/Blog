@@ -19,4 +19,4 @@ Estoy diseñando nuevas formas de comunicación y he aprovechado este verano en 
 
 Esta sería la subsección, está bueno porque permite expresar otras ideas mas que en la sección anterior no se han escrito.
 ## Sección 2
-Acá se puede seguir delirando con mas contenidos en otra sección de algún tema diferente. Por ejemplo, me contaron que existe un grupo secreto llamado el Descorche que hablan pelotudeces y comentan para sntirse mas miserables que la vida que llevan, en fin cada persona malgasta su tiempo en lo que que quiera.
+Acá se puede seguir delirando con mas contenidos en otra sección de algún tema diferente. Por ejemplo, me contaron que existe un grupo secreto llamado el Descorche que hablan pelotudeces y comentan para sentirse mas miserables que la vida que llevan, en fin cada persona malgasta su tiempo en lo que que quiera.

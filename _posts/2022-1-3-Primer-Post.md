@@ -7,7 +7,8 @@ Este es mi primer artículo.
 
 ## Sección 1
 
-Fecha= 03/02/2022.
+Fecha= 03/02/2022. (BR)
+
 Estoy diseñando nuevas formas de comunicación y he aprovechado este verano en estudiar como tener una página web gratuita alojada en github. Como leerán lo pude lograr. Es un desafío seleccionar de que temas voy a escribir por el momento escribo lo que están leyendo a modo de práctica.
 
 !config.yml (/images/imagen para el blog.jpg)
